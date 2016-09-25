@@ -6,7 +6,7 @@ Author: Erica Wong
 
 Description:
 
-I am currently a student in Stat 159 at UC Berkeley. In this project, I am going to describe the computational tools that we have learned about so far in class. Additionally, this project will test how well I know how to use the tools that I am decribing. 
+I am currently a student in Stat 159 at UC Berkeley. In this project, I am going to describe the computational tools that we have learned about so far in class. Specifically, I will comment on how I used these different tools in the process of creating this project. Additionally, this project will test how well I know how to use the tools that I am describing. 
 
 Organization:
 
