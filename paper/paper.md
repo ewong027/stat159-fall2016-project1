@@ -2,10 +2,13 @@
 
 In this report, I am going to talk about the different the different computational tools that we learned about during the first couple of weeks of classes. Additionally, this paper is going to discuss how I used these tools when creating this project and my overall feelings about the process of creating this project. There are many different tools that are used in reproducible data. In our class so far, we have covered many things such as markdown, pandoc, git, github, Makefile, and how to use a text editor. So, through this report, we will discuss many of those topics and their uses.
 
+
 ## Introduction
 
 Reproducible data is a concept that is still relatively new to the world of data science. It is also something that people are still learning how to do. Using computational tools allows one to produce reproducible data much more efficently, however, one must really understand the how to use those computational tools efficiently and properly before one is able to produce good reproducible data. That is why we are doing this project. The purpose of this project is to show our understanding of the tools that we have learned about in class. Additonally, by explaining what each of the tools are, if other were looking for a resource that would explain what some useful tools are for creating reproducible data, they could use this project to help them understand the tools better. 
 This project discuss the tools Makefile, Markdown, Pandoc, Git, and Github. After that, I will talk about how I used these tools to create this project and my overall experience with working with these tools on this project. For example, what was the easiest and hardest part for me, what did I get stuck on and etc. 
+
+
 ## Discussion
 
 ### The Tools
@@ -64,6 +67,7 @@ I am writing this paper/project for my Stat 159 class at UC Berkeley. Resources 
 
 
 
+
 ## Conclusion
 
 ### Experience with Project
@@ -73,3 +77,4 @@ My overall experience in working with this project is positive. I found some of 
 ### Concluding Thoughts
 
 There are many tools that make creating reproducible data a lot easier. Makefile, Git, Github, Pandoc, and Markdown are just a few of the tools that can be used. Additionally, all of these tools reduce the dependency of one machine and allow for easy collaboration. The purpose of this project, is to ensure that I know what each of these tools do and how they are used in a project. It is important to have a strong foundation and knowledge of what tools I am using because it allows for efficency when using them and so that when I want to describe the benefits of reproducible data and these tools to others I can in an efficent manner. Finally, this project now creates a tool that others can use when they are trying to figure out what kinds of tools they can use to when trying to create reproducible data.
+
