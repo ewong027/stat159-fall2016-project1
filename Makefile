@@ -9,7 +9,7 @@ paper.md: $(mds)
 	cat $(mds) > paper/paper.md
 
 paper.html: paper/paper.md
-	pandoc paper/paper.md -s -o paper/paper.html
+	pandoc -s paper/paper.md -o paper/paper.html
 
 clean:
 	rm -f paper/paper.html
